@@ -1,0 +1,6 @@
+print('Digite o valor de x: ')
+x = input()
+print('Digite o valor de y: ')
+y = input()
+z = float(x) ** float(y)
+print('Resultado: '+str(z))

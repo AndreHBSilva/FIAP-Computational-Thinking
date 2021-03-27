@@ -1,0 +1,6 @@
+print('Digite seu nome: ')
+nome = input()
+print('Digite o ano do seu nascimento: ')
+anoNascimento = input()
+idade = 2020-int(anoNascimento)
+print(nome+' tem (ou terá) '+str(idade)+' até o final de 2020')
